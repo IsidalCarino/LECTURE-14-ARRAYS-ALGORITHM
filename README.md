@@ -96,35 +96,9 @@ int main()
 ```
 # EXERCISE 2
 ```
-#include <iostream>
-#include <array>
-#include <algorithm>
-#include <random>
-using namespace std;
-
-int main()
-{
-    int x, y;
-    float myArray[10];
-    cout << "Enter 10 Numbers: " << endl;
-    cin >> y;
-    cout << endl;
-    for (x = 0; x < y; ++x)
-    {
-        cout << x;
-        cin >> myArray[x];
-    }
-    for (x = 1; x < y; ++x)
-    {
-        if (myArray[0] < myArray[x])
-            myArray[0] = myArray[x];
-    }
-    cout << "Largest Numbeeer: " << myArray[0];
-
-    return 0;
-}
+Ms. I'm very sorry I think I will need some help for this.
 ```
 # EXERCISE 3
 ```
-CHOTTO MATTE KUDASAI NE~~ THIS ONE IS MUZUKASHI SENSEI~
+... and for this as well.
 ```
